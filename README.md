@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cloud Computing & Cybersecurity<br><br>I'm currently building my foundations in Cloud Computing, with a growing interest in Cloud Security <br>I'm learning through hands-on labs, personal projects, and practical experimentation while working toward my first opportunity in the Cloud/Cybersecurity industry.<br><br>Current Focus<br>☁️ Cloud Computing<br>🐧 Linux & Networking<br>🏗️ Cloud Infrastructure
+Cloud Computing & Cybersecurity<br><br>I'm currently building my foundations in Cloud Computing, with a growing interest in Cloud Security <br>I'm learning through hands-on labs, personal projects, and practical experimentation while working toward my first opportunity in the Cloud/Cybersecurity industry.<br><br>Current Focus<br>☁️ Cloud Computing<br>🐧 Linux & Networking<br>🔒 Cybersecurity
 
 
 # 💻 Tech Stack:
